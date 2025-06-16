@@ -1,0 +1,12 @@
+D:\vs 2020\Camp-4.2\FlyWithMe-Flights\ClassLibraryConnection\bin\Debug\net8.0\ClassLibraryConnection.deps.json
+D:\vs 2020\Camp-4.2\FlyWithMe-Flights\ClassLibraryConnection\bin\Debug\net8.0\ClassLibraryConnection.dll
+D:\vs 2020\Camp-4.2\FlyWithMe-Flights\ClassLibraryConnection\bin\Debug\net8.0\ClassLibraryConnection.pdb
+D:\vs 2020\Camp-4.2\FlyWithMe-Flights\ClassLibraryConnection\obj\Debug\net8.0\ClassLibraryConnection.csproj.AssemblyReference.cache
+D:\vs 2020\Camp-4.2\FlyWithMe-Flights\ClassLibraryConnection\obj\Debug\net8.0\ClassLibraryConnection.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs 2020\Camp-4.2\FlyWithMe-Flights\ClassLibraryConnection\obj\Debug\net8.0\ClassLibraryConnection.AssemblyInfoInputs.cache
+D:\vs 2020\Camp-4.2\FlyWithMe-Flights\ClassLibraryConnection\obj\Debug\net8.0\ClassLibraryConnection.AssemblyInfo.cs
+D:\vs 2020\Camp-4.2\FlyWithMe-Flights\ClassLibraryConnection\obj\Debug\net8.0\ClassLibraryConnection.csproj.CoreCompileInputs.cache
+D:\vs 2020\Camp-4.2\FlyWithMe-Flights\ClassLibraryConnection\obj\Debug\net8.0\ClassLibraryConnection.dll
+D:\vs 2020\Camp-4.2\FlyWithMe-Flights\ClassLibraryConnection\obj\Debug\net8.0\refint\ClassLibraryConnection.dll
+D:\vs 2020\Camp-4.2\FlyWithMe-Flights\ClassLibraryConnection\obj\Debug\net8.0\ClassLibraryConnection.pdb
+D:\vs 2020\Camp-4.2\FlyWithMe-Flights\ClassLibraryConnection\obj\Debug\net8.0\ref\ClassLibraryConnection.dll
